@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Clash Of Clans Guide</string>
+    <string name="data_link">https://raw.githubusercontent.com/AnhPhamRepository/clashofclans/main/JsonData</string>
+    <string name="network_error">Can not connect to server, please check and try again.</string>
+    <string name="try_again">Try again</string>
+    <string name="cancel">Cancel</string>
+    <string name="characters">Characters</string>
+    <string name="weapons">Resource Buildings</string>
+    <string name="maps">Army Buildings</string>
+    <string name="tips">Our Strategy Guide</string>
+    <string name="review_us">Review Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vehicles">Defensive Buildings</string>
+    <string name="ssa">SPECIAL SURVIVAL ABILITY</string>
+    <string name="utl">MEMORY FRAGMENT TO UNLOCK</string>
+    <string name="properties">Properties</string>
+    <string name="damage">Base Damage</string>
+    <string name="range">Fire Rate</string>
+    <string name="magezine">DPS</string>
+    <string name="movement_speed">Time to kill</string>
+    <string name="rate_of_fire">Shots to kill - Chest</string>
+    <string name="reload_speed">Shots to kill - Head</string>
+    <string name="accuracy">ACCURACY</string>
+    <string name="armor_penetration">"ARMOR PENETRATION "</string>
+    <string name="hp">Occupants</string>
+    <string name="acceleration">Top Speed</string>
+    <string name="control">Health</string>
+    <string name="speed">Control</string>
+    <string name="alternative">Please install new app to get more game guide</string>
+    <string name="ok">Ok</string>
+    <string name="no">No</string>
+    <string name="pubg_mobile">Clash Of Clans</string>
+    <string name="guide_tips"><![CDATA[Guides & Tips]]></string>
+</resources>
